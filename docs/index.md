@@ -1,5 +1,6 @@
+## Welcome to My Azure Lab Portfolio
 
-Welcome to my Azure hands-on lab portfolio. This site showcases practical cloud administration exercises completed as part of my learning journey. Each lab focuses on a core Azure capability, demonstrating real-world skills in identity, compute, networking, storage and monitoring.
+This site showcases practical cloud administration exercises completed as part of my learning journey. Each lab focuses on a core Azure capability, demonstrating real-world skills in identity, compute, networking, storage and monitoring.
 
 ---
 
