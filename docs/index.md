@@ -34,9 +34,10 @@ This site showcases practical cloud administration exercises completed as part o
 
 ## About This Portfolio
 
-This documentation is designed to reflect structured, professional cloud work - similar to how Azure engineers and administrators document their environments. It highlights practical skills, clear steps and organized learning.
+This documentation reflects structured, professional cloud work — similar to how Azure engineers document environments. It highlights practical skills, clear steps, and organized learning.
 
 Several labs also incorporate real-world identity and access management scenarios inspired by the Camily Enterprises project, demonstrating how Azure concepts apply within an organizational context.
+
 ---
 
 ## Maintained By
